@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kshreya-28/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/kshreya-28/leetcode/tree/master/0009-palindrome-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
