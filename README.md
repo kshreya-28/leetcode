@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kshreya-28/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshreya-28/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kshreya-28/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kshreya-28/leetcode/tree/master/0001-two-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
