@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kshreya-28/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kshreya-28/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kshreya-28/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/kshreya-28/leetcode/tree/master/0136-single-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kshreya-28/leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kshreya-28/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
