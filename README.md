@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kshreya-28/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/kshreya-28/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/kshreya-28/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kshreya-28/leetcode/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kshreya-28/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kshreya-28/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/kshreya-28/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kshreya-28/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kshreya-28/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
