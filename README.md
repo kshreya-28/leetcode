@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kshreya-28/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/kshreya-28/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kshreya-28/leetcode/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kshreya-28/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kshreya-28/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/kshreya-28/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kshreya-28/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kshreya-28/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kshreya-28/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kshreya-28/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kshreya-28/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/kshreya-28/leetcode/tree/master/0476-number-complement) |
