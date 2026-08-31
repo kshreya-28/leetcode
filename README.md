@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kshreya-28/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kshreya-28/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kshreya-28/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/kshreya-28/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kshreya-28/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kshreya-28/leetcode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/kshreya-28/leetcode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/kshreya-28/leetcode/tree/master/0097-interleaving-string) |
+| [0205-isomorphic-strings](https://github.com/kshreya-28/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kshreya-28/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kshreya-28/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
