@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kshreya-28/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kshreya-28/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kshreya-28/leetcode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kshreya-28/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kshreya-28/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/kshreya-28/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kshreya-28/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshreya-28/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kshreya-28/leetcode/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kshreya-28/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/kshreya-28/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Trie
 |  |
