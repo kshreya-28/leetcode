@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kshreya-28/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kshreya-28/leetcode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/kshreya-28/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kshreya-28/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kshreya-28/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kshreya-28/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshreya-28/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kshreya-28/leetcode/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kshreya-28/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/kshreya-28/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Trie
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kshreya-28/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kshreya-28/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/kshreya-28/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kshreya-28/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kshreya-28/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
