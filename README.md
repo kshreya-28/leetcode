@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/kshreya-28/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/kshreya-28/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kshreya-28/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/kshreya-28/leetcode/tree/master/1480-running-sum-of-1d-array) |
