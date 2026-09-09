@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kshreya-28/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3870-count-commas-in-range](https://github.com/kshreya-28/leetcode/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
