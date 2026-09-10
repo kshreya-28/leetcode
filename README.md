@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kshreya-28/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/kshreya-28/leetcode/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/kshreya-28/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kshreya-28/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/kshreya-28/leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kshreya-28/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/kshreya-28/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/kshreya-28/leetcode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/kshreya-28/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kshreya-28/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kshreya-28/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kshreya-28/leetcode/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/kshreya-28/leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
