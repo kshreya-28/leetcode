@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kshreya-28/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/kshreya-28/leetcode/tree/master/0645-set-mismatch) |
+| [0860-lemonade-change](https://github.com/kshreya-28/leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/kshreya-28/leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
