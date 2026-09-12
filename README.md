@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/kshreya-28/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshreya-28/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kshreya-28/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kshreya-28/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kshreya-28/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/kshreya-28/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kshreya-28/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2390-removing-stars-from-a-string](https://github.com/kshreya-28/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/kshreya-28/leetcode/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kshreya-28/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kshreya-28/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
