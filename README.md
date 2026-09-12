@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kshreya-28/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/kshreya-28/leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/kshreya-28/leetcode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/kshreya-28/leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/kshreya-28/leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/kshreya-28/leetcode/tree/master/0860-lemonade-change) |
 ## Geometry
 |  |
