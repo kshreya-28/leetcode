@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kshreya-28/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kshreya-28/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kshreya-28/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/kshreya-28/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kshreya-28/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kshreya-28/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshreya-28/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kshreya-28/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshreya-28/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kshreya-28/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kshreya-28/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kshreya-28/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kshreya-28/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kshreya-28/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kshreya-28/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kshreya-28/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/kshreya-28/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kshreya-28/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshreya-28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
