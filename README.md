@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kshreya-28/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/kshreya-28/leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/kshreya-28/leetcode/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/kshreya-28/leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/kshreya-28/leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/kshreya-28/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kshreya-28/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/kshreya-28/leetcode/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/kshreya-28/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kshreya-28/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kshreya-28/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
