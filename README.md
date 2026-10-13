@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/kshreya-28/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/kshreya-28/leetcode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kshreya-28/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1148-article-views-i](https://github.com/kshreya-28/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/kshreya-28/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/kshreya-28/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kshreya-28/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
